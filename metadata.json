@@ -1,0 +1,6 @@
+{
+  "name": "Hriday Keyboard",
+  "description": "A feature-rich, beautiful, and professional Jetpack Compose virtual keyboard containing extensive customization options, custom emojis, sound and vibration themes, and an interactive learning dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
